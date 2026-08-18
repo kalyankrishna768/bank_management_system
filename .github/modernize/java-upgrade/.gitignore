@@ -1,0 +1,24 @@
+# Frontend
+bank-frontend/node_modules/
+bank-frontend/dist/
+bank-frontend/build/
+bank-frontend/.env
+
+# Backend
+Springboot_Full_Stack/target/
+Springboot_Full_Stack/.env
+
+# Java / Spring Starter Project
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
